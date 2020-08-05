@@ -91,6 +91,45 @@ textarea {
   height: auto;
 }
 
+.hp2 {
+  height: 100%;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  margin-left: 25px;
+  color: white;
+}
+
+body {
+  background-image: url(../img/photo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.imghp {
+  width: 90%;
+  height: auto;
+  margin: auto;
+}
+
+.posphotos {
+  display: flex;
+  justify-content: space-between;
+}
+
+.yt {
+display: flex;
+justify-content: flex-end;
+margin-top: 100px;
+
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
